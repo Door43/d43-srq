@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[srq:home|Door43 (srq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-srq|d43-srq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-srq/archive/master.zip|d43-srq.zip]]
+
+**Recent Changes**
+{{changes>ns = srq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/srq|Ethnologue data]]
+
